@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">LiteDash</string>
+  <string name="no_restaurants">No restaurants available! Please try later.</string>
+  <string name="fetch_error">Error while fetching: %1$s</string>
+</resources>
